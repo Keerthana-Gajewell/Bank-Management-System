@@ -12,10 +12,3 @@ A console-based Banking Management System developed in Javathat simulates basic 
 6. Input validation and error handling
 7. Uses in-memory data storage (HashMap)
 
-Banking_Management_System
-│
-├── src
-│   ├── Main.java
-│   └── Bank.java
-│
-└── README.md
